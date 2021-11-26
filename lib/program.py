@@ -1,6 +1,6 @@
 from time import sleep
-from msg import msg
-from config import auth_token, channel_ID, channel_URL
+from lib.msg import msg
+from lib.config import auth_token, channel_ID, channel_URL
 
 def program():
     if (auth_token == "" or channel_ID=="" or channel_URL==""):

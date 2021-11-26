@@ -1,5 +1,5 @@
 from sys import stderr
-from config import auth_token, channel_URL
+from lib.config import auth_token, channel_URL
 
 header_data = {
 "content-type": "application/json",

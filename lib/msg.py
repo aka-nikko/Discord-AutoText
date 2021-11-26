@@ -1,7 +1,7 @@
 from json import dumps
-from connection import get_connection
-from send_msg import send_message
-from config import channel_ID
+from lib.connection import get_connection
+from lib.send_msg import send_message
+from lib.config import channel_ID
 
 def msg(variable):
     message_data = {
