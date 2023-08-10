@@ -30,20 +30,20 @@ python main.py
 * In the filter field, type "token".
 * If you don't see your token, click on "Toggle Device Toolbar" (or press ctrl+shift+m).
 * Copy the token value.
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/token.png" width="70%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/token.png" width="70%">
 
 ## Screenshots
 ### Run
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/run.png" width="80%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/run.png" width="80%">
 
 ### Enter New Config
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/new.png" width="80%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/new.png" width="80%">
 
 ### Automate Text
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/auto.png" width="80%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/auto.png" width="80%">
 
 ### Sending
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/sending.png" width="80%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/sending.png" width="80%">
 
 ### Messages
-<img src="https://github.com/AnshulVerma01/Discord-AutoText/blob/main/images/messages.png" width="80%">
+<img src="https://github.com/aka-nikko/Discord-AutoText/blob/main/images/messages.png" width="80%">
